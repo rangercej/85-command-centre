@@ -1,0 +1,42 @@
+What's new in version 0.51.2
+============================
+
+This file is in reverse chronological order - ie. Most recent stuff is at the
+top.
+
+V0.51.2 - 11 November '95
+-------------------------
+Added scroll pause to 'view contents of group file' option
+Changed the main login message.
+Added another deciaml point in the version number, 'cos the changes were so
+    minor, I didn't think they merited a whole 0.01 increae :)
+
+V0.51 - 10 November '95
+-----------------------
+Added a slection bar in the group manager menu
+
+V0.51 - 4 November '95
+----------------------
+Added examine feature in group manager
+Added menu for group manager
+Added 'note' procedure for internal use :)
+Added compilation date/time info for debug mode
+
+V0.4 - Pre 4 November 1995
+--------------------------
+Right I seem to remember doing things in this order (this list is in REVERSE
+chronological order)
+  - Added ungroup
+  - Added edit locking
+  - Added file comment editing
+  - Added setup box
+  - Added send
+  - Added receive
+  - Added about box
+  - Added quit !!
+
+V0.1 - Some time during last summer holidays
+--------------------------------------------
+Started work on command center type program for the TI-85 and TI-85 link
+
+

@@ -1,0 +1,34 @@
+README.1ST
+==========
+
+The 85 Command Centre is designed for use with the TI-85 calculator, and the
+homemade graph-link.
+
+This program is provided 'as-is', and I make no gurantee that it is perfect. I
+can not be held responsible for any loss of data that may occour using this
+program.
+
+If you want something you can trust, or want to send important data over the
+link, then it may be best to use LINK85X, however I have used this program for
+over a month without any problems.
+
+Read STARTUP.TXT for more info, and solutions to any questions you may be
+thinking of.
+
+Please report any bugs/errors etc...to: cjohnso0@pine.shu.ac.uk
+
+Files in the archive
+--------------------
+README.1ST      -  This file
+STARTUP.TXT     -  How to get this thing started, and known problems
+85CC.NEW        -  A record of all the updates (programming log if you like)
+85CC.EXE        -  The program :)
+SHOW.EXE        -  Text file viewer
+README.BAT      -  Show's all the text files
+PRINTDOC.BAT    -  Prints the main text files to the printer
+
+
+Thanks,
+
+Chris.
+

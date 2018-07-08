@@ -1,0 +1,34 @@
+STARTUP.TXT
+===========
+
+When running 85CC for the firt time, run it with the RESET paramter. This will
+create the configuration file 85CC.CFG requiered to run the program. You will
+then need to enter the setup menu to alter the initial path and com port as
+requiered.
+
+
+85CC Syntax
+-----------
+85CC [RESET]
+
+where RESET (optional, without the sqaure brackets) will reet the configuration
+to initial values.
+
+
+Changing drive
+--------------
+Until I sort out an easier way of changing drive, this is the only way to do 
+it. At any prompt where you need to enter a file, enter the drive spec instead,
+then hitting F2 will launch you into the directory navigator.
+
+
+Edit-locking
+------------
+Sorry no unlock available, so remember to keep an UNLOCKED VERSION somewhere.
+
+
+TI's Graphlink
+--------------
+Sorry, as far as I know, the graph-link won't work with this software; only 
+with the home-made serial link.
+

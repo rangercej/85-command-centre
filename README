@@ -1,0 +1,16 @@
+TI-85 Command Centre
+====================
+
+This is a program written to transfer stuff to and from the TI-85 calculator,
+for those students who couldn't afford TI's official Graphlink hardware and
+software.
+
+It was written for Turbo Pascal 6, and for homemade interface hardware
+(specifically it was tested with Magnus Hagander's Connect-85 link, details
+of which can be found at http://c85.ticalc.org/ ). Details of the protocol
+used can be found at https://www.ticalc.org/archives/files/fileinfo/1/102.html
+
+As it's a 1995 TP6 vintage, it obviously runs under DOS. Putting up on Github
+as I don't really know what else to do with the old code, and I'd rather not
+have it lost. So sharing seems to be the best way to go :-)
+
